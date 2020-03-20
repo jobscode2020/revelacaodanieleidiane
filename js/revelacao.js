@@ -58,7 +58,7 @@ function noItsBoy() {
   $('.card-body').empty().html(`
   <h5 class="text-center">
     <img src="https://media.giphy.com/media/xT9Igpm06uM5OJ5lVS/giphy.gif" style="width:5rem;">
-    <img src="https://media.giphy.com/media/xT9Igpm06uM5OJ5lVS/giphy.gif" style="width:rem;">
+    <img src="https://media.giphy.com/media/xT9Igpm06uM5OJ5lVS/giphy.gif" style="width:5rem;">
     <img src="https://media.giphy.com/media/VaqR08nDfj4tGHPyTX/giphy.gif" style="width:13rem;">
   </h5>
   `);
