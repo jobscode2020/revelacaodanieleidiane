@@ -47,7 +47,6 @@ function yesItsBoy() {
   $('.card-body').empty().html(`
   <h5 class="text-center">
     <img src="https://media.giphy.com/media/1QjzdzQd2D3Qpxn29P/giphy.gif" style="width:7rem;">
-    <strong style="color:blue;">SIM! É MENINO</strong>
     <img src="https://media.giphy.com/media/ZyupJv9fpknluc04os/giphy.gif" style="width:7rem;">
     <img src="https://media.giphy.com/media/VaqR08nDfj4tGHPyTX/giphy.gif" style="width:13rem;">
   </h5>
@@ -58,9 +57,7 @@ function yesItsBoy() {
 function noItsBoy() {
   $('.card-body').empty().html(`
   <h5 class="text-center">
-    <img src="https://media.giphy.com/media/1QjzdzQd2D3Qpxn29P/giphy.gif" style="width:7rem;">
-    <strong style="color:blue;">NÃO! É MENINO</strong>
-    <img src="https://media.giphy.com/media/ZyupJv9fpknluc04os/giphy.gif" style="width:7rem;">
+    <img src="https://media.giphy.com/media/xT9Igpm06uM5OJ5lVS/giphy.gif" style="width:7rem;">
     <img src="https://media.giphy.com/media/VaqR08nDfj4tGHPyTX/giphy.gif" style="width:13rem;">
   </h5>
   `);
